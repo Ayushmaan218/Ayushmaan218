@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Ayushmaan Mohanty
 **A passionate Full Stack Developer ||  Software Developer**
 
-Email Me 👉 ✉️ **aayushmaanmohanty21@gmail.com** For Collaboration/Project or Anything Else. 😊😊
--Portfoilo 👉 **https://ayushmaanportfolio.vercel.app/**
+Email Me 👉 ✉️ **aayushmaanmohanty21@gmail.com** For Collaboration/Project or Anything Else. 😊😊<br/>
+Portfoilo 👉 ✉️ **https://ayushmaanportfolio.vercel.app/**
 
 - 🌱 **I’m currently learning:** Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
